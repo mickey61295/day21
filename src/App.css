@@ -13,6 +13,7 @@
 	background: linear-gradient(to right, #0062e6, #33aeff);
 	display: flex;
 	flex-flow: row wrap;
+	justify-content: center;
 	padding-left: 15px;
 	padding-right: 15px;
 }
