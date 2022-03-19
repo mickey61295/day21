@@ -42,7 +42,6 @@ function App() {
 
 	return (
 		<div className="App">
-			{/* title */}
 			<header className="App-header">
 				<h1>3-Tier Pricing Table</h1>
 			</header>
